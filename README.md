@@ -74,4 +74,6 @@ Design Guidelines – Based on professional dashboarding best practices.
 - Foster better collaboration between departments by sharing consistent KPI definitions.
 
 
-## DASHBOARD - "C:\Users\91701\OneDrive\Pictures\Final Dashboard.png"
+## DASHBOARD - 
+<img width="1189" height="666" alt="Final Dashboard" src="https://github.com/user-attachments/assets/c939034c-1b08-43dc-933e-b32921ec9632" />
+
