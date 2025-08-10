@@ -75,5 +75,5 @@ Design Guidelines – Based on professional dashboarding best practices.
 
 
 ## DASHBOARD - 
-<img width="1189" height="666" alt="Final Dashboard" src="https://github.com/user-attachments/assets/c939034c-1b08-43dc-933e-b32921ec9632" />
+<img width="1171" height="567" alt="Final Dashboard" src="https://github.com/user-attachments/assets/ee8e26c6-12e4-4b91-b0a1-37923c4d9f33" />
 
