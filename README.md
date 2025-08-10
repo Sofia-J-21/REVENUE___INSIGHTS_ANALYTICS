@@ -67,8 +67,11 @@ Design Guidelines – Based on professional dashboarding best practices.
 
 - Optimize revenue management by tracking occupancy and booking patterns.
 
-- Provide a single source of truth for all operational and financial metrics.
+- Provide a single source of truth for all operational and financial metrics
 
 - Enable forecasting and planning for peak and off-peak seasons.
 
 - Foster better collaboration between departments by sharing consistent KPI definitions.
+
+
+## DASHBOARD - "C:\Users\91701\OneDrive\Pictures\Final Dashboard.png"
